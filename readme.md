@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This fork is now maintained at
+> [codeberg.org/AyushmaanAggarwal/qmk_firmware](https://codeberg.org/AyushmaanAggarwal/qmk_firmware)
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
